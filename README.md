@@ -1,4 +1,4 @@
-# Getting Data from Remote Sources Conclusion
+# Getting Remote Data Conclusion
 
 We've established how you can build classes and object that perform various
 functions in an application, however, sometimes we want to incorporate remote
